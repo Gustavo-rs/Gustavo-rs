@@ -6,8 +6,6 @@
 - 📫 Sou residente de criciuma em SC!
 - 😄 Gosto muito de passar meu tempo livre em games ou estudando!
 - ⚡ Procuro sempre manter o foco para melhorar o rendimento e consequentemente entregar de maneira eficiente!
-
-<img align="left" width="450px" alt="Gutasvin stats" src="https://github-readme-stats.vercel.app/api?username=Gutasvin&theme=tokyonight&show_icons=false" />
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
