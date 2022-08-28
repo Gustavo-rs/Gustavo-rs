@@ -1,7 +1,7 @@
 👋 Olá, Meu nome é Gustavo!
 
 - 🔭 Atualmente trabalho como Desenvolvedor Mobile!
-- 🌱 Introduzido na empresa Piql!
+- 🌱 Introduzido na empresa OaisCloud!
 - 🤔 Sou um profissional muito dedicado e sempre disposto a aprender!
 - 📫 Sou residente de criciuma em SC!
 - 😄 Gosto muito de passar meu tempo livre em games ou estudando!
