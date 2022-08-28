@@ -7,7 +7,6 @@
 - 😄 Gosto muito de passar meu tempo livre em games ou estudando!
 - ⚡ Procuro sempre manter o foco para melhorar o rendimento e consequentemente entregar de maneira eficiente!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutasvin&theme=tokyonight&layout=compact)
 <img align="left" width="450px" alt="Gutasvin stats" src="https://github-readme-stats.vercel.app/api?username=Gutasvin&theme=tokyonight&show_icons=false" />
   
 <div style="display: inline_block"><br>
