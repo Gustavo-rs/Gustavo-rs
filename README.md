@@ -1,11 +1,6 @@
-👋 Olá, Meu nome é Gustavo!
+👋 Hi, My name is Gustavo!
 
-- 🔭 Atualmente trabalho como Desenvolvedor Mobile!
-- 🌱 Introduzido na empresa OaisCloud!
-- 🤔 Sou um profissional muito dedicado e sempre disposto a aprender!
-- 📫 Sou residente de criciuma em SC!
-- 😄 Gosto muito de passar meu tempo livre em games ou estudando!
-- ⚡ Procuro sempre manter o foco para melhorar o rendimento e consequentemente entregar de maneira eficiente!
+- 🔭 Mobile developer!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
